@@ -1,0 +1,4 @@
+# BookBuilder clone
+This project rips off [Alex Crompton's original idea](https://www.alexcrompton.com/blog/automatically-creating-a-practical-opening-repertoire-or-why-your-chess-openings-suck) of building a chess opening chooser. The idea originates entirely from Alex. The code (and any bugs in it) comes entirely from me. The script interacts with Lichess's database of games and chooses appropriate continuations based on win rate and popularity.
+
+My intention with the project was more so to figure out how to interact with website APIs and integrating that with another interest of mine, chess.
